@@ -155,10 +155,10 @@ function displayGames(gamesToDisplay) {
         gameCard.className = 'game-card';
         gameCard.innerHTML = `
             <div class="game-image" style="background-image: url('${game.image}')">
-                <div class="game-title">${game.title}</div>
             </div>
             <div class="game-details">
                 <div class="game-meta">
+                    <a href="${game.link}" class="game-title">${game.title}</a>
                     <span class="type">${game.type}</span>
                     <span class="players">${game.playerCount}</span>
                     <span class="time">${game.time}</span>
@@ -167,7 +167,6 @@ function displayGames(gamesToDisplay) {
                 </div>
                 <p class="game-description">${game.description}</p>
                 <div class="game-actions">
-                    <a href="${game.link}" target="_blank" class="link-btn">Game Link</a>
                     <button class="rules-btn" data-id="${game.id}">View Rules</button>
                 </div>
             </div>

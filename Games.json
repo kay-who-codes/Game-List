@@ -95,6 +95,90 @@
             "Brainload": "Medium Brainload",
             "Link": "https://kay-who-codes.github.io/Wordsmash/",
             "Image": "https://github.com/kay-who-codes/Wordsmash/blob/main/Non-App/App%20Image.png?raw=true"
+        },
+        {
+            "Name": "Spot The Rule",
+            "Description": "A math-based puzzle game where players deduce a hidden rule by analyzing number sequences. Play solo against randomized rules or challenge a friend in 2-player mode!",
+            "Rules": "1-Player Mode: The game generates a sequence using a random mathematical rule. Submit any formula (e.g., `(x * 2) + 1`) that correctly produces the sequence—it doesn't need to match the exact original expression.\n\n2-Player Mode: Player 1 sets a custom rule and starting number. Player 2 sees the generated sequence and must find a working formula (not necessarily identical to Player 1's). Correct solutions win!",
+            "Game-Type": "Number Game",
+            "Player-Count": "1+ Players",
+            "Game-Time": "Flexible",
+            "Maturity": "Mild Maturity",
+            "Brainload": "High Brainload",
+            "Link": "https://kay-who-codes.github.io/Spot-The-Rule/",
+            "Image": ""
+        },
+        {
+            "Name": "3 Criteria Challenge",
+            "Description": "A game where players must guess a word based on three criteria: a starting letter, a category, and a wildcard rule.",
+            "Rules": "Players compete to be the first to guess a word that fits the criteria. The first player to guess correctly wins the round.",
+            "Game-Type": "Word Game",
+            "Player-Count": "1+ Players",
+            "Game-Time": "Flexible",
+            "Maturity": "Mild Maturity",
+            "Brainload": "Medium Brainload",
+            "Link": "https://kay-who-codes.github.io/3-Criteria-Challenge/",
+            "Image": "https://github.com/kay-who-codes/3-Criteria-Challenge/blob/main/Non-App/App%20Image.png?raw=true"
+        },
+        {
+            "Name": "UK Driving Theory Quiz",
+            "Description": "A quiz game designed to help players prepare for the UK driving theory test.",
+            "Rules": "Players answer multiple-choice questions based on the UK Highway Code and driving theory. The game tracks correct answers and provides feedback.",
+            "Game-Type": "Quiz Game",
+            "Player-Count": "1 Player",
+            "Game-Time": "20-40 Minutes",
+            "Maturity": "Mild Maturity",
+            "Brainload": "Medium Brainload",
+            "Link": "https://kay-who-codes.github.io/UK-Driving-Theory-Test/",
+            "Image": "https://github.com/kay-who-codes/UK-Driving-Theory-Test/blob/main/Non-App/App%20Image.png?raw=true"
+        },
+        {
+            "Name": "Invention Cards",
+            "Description": "A game where players create and pitch their own inventions using product cards.",
+            "Rules": "Combine product cards together to create dope new inventions and pitch those inventions to buyers (a. K. A the judge). The dopest invention wins!",
+            "Game-Type": "Party Game",
+            "Player-Count": "3+ Players",
+            "Game-Time": "15-30 Minutes",
+            "Maturity": "Mild Maturity",
+            "Brainload": "Medium Brainload",
+            "Link": "https://kay-who-codes.github.io/Invention-Cards/",
+            "Image": ""
+        },
+        {
+            "Name": "20 Questions",
+            "Description": "A classic guessing game where one player thinks of an object, and the other players ask yes or no questions to guess what it is.",
+            "Rules": "One player thinks of an object, and the other players take turns asking yes or no questions. The goal is to guess the object within 20 questions.",
+            "Game-Type": "Guessing Game",
+            "Player-Count": "2+ Players",
+            "Game-Time": "10-30 Minutes",
+            "Maturity": "Mild Maturity",
+            "Brainload": "Low Brainload",
+            "Link": "https://kay-who-codes.github.io/20-Questions/",
+            "Image": "https://github.com/kay-who-codes/20-Questions-Counter/blob/main/Non-App/App%20Image.png?raw=true"
+        },
+        {
+            "Name": "Wordle",
+            "Description": "A word puzzle game where players have six attempts to guess a five-letter word.",
+            "Rules": "Players enter a five-letter word, and the game provides feedback on which letters are correct and in the right position, and which letters are correct but in the wrong position.",
+            "Game-Type": "Puzzle Game",
+            "Player-Count": "1 Player",
+            "Game-Time": "5-10 Minutes",
+            "Maturity": "Mild Maturity",
+            "Brainload": "Medium Brainload",
+            "Link": "https://www.nytimes.com/games/wordle/index.html",
+            "Image": ""
+        },
+        {
+            "Name": "Sudoku",
+            "Description": "A logic-based number placement puzzle where players fill a 9x9 grid with numbers so that each column, row, and 3x3 subgrid contains all digits from 1 to 9.",
+            "Rules": "Players must fill the grid with numbers from 1 to 9, ensuring that no number repeats in any row, column, or 3x3 subgrid.",
+            "Game-Type": "Puzzle Game",
+            "Player-Count": "1 Player",
+            "Game-Time": "10-30 Minutes",
+            "Maturity": "Mild Maturity",
+            "Brainload": "High Brainload",
+            "Link": "https://www.websudoku.com/",
+            "Image": ""
         }
     ]
 }
