@@ -1,17 +1,5 @@
 {    "Game List": 
-    [
-        {
-            "Name": "Chess",
-            "Description": "A strategic board game played between two players on a checkered board.",
-            "Rules": "Each player starts with 16 pieces: 1 king, 1 queen, 2 rooks, 2 knights, 2 bishops, and 8 pawns. Each piece moves differently. The objective is to checkmate the opponent's king.",
-            "Game-Type": "Board Game",
-            "Player-Count": "2 Players",
-            "Game-Time": "10-25 Minutes",
-            "Maturity": "Mild Maturity",
-            "Brainload": "High Brainload",
-            "Link": "https://www.lichess.org/",
-            "Image": "https://github.com/paulphys/lichess-custom-pieces/blob/main/lichess.png?raw=true"
-        },
+    [ww
         {
             "Name": "Truth or Dare or Drink",
             "Description": "A party game where players choose between answering a question truthfully, performing a dare, or taking a drink.",
@@ -155,30 +143,6 @@
             "Brainload": "Low Brainload",
             "Link": "https://kay-who-codes.github.io/20-Questions/",
             "Image": "https://github.com/kay-who-codes/20-Questions-Counter/blob/main/Non-App/App%20Image.png?raw=true"
-        },
-        {
-            "Name": "Wordle",
-            "Description": "A word puzzle game where players have six attempts to guess a five-letter word.",
-            "Rules": "Players enter a five-letter word, and the game provides feedback on which letters are correct and in the right position, and which letters are correct but in the wrong position.",
-            "Game-Type": "Puzzle Game",
-            "Player-Count": "1 Player",
-            "Game-Time": "5-10 Minutes",
-            "Maturity": "Mild Maturity",
-            "Brainload": "Medium Brainload",
-            "Link": "https://www.nytimes.com/games/wordle/index.html",
-            "Image": ""
-        },
-        {
-            "Name": "Sudoku",
-            "Description": "A logic-based number placement puzzle where players fill a 9x9 grid with numbers so that each column, row, and 3x3 subgrid contains all digits from 1 to 9.",
-            "Rules": "Players must fill the grid with numbers from 1 to 9, ensuring that no number repeats in any row, column, or 3x3 subgrid.",
-            "Game-Type": "Puzzle Game",
-            "Player-Count": "1 Player",
-            "Game-Time": "10-30 Minutes",
-            "Maturity": "Mild Maturity",
-            "Brainload": "High Brainload",
-            "Link": "https://www.websudoku.com/",
-            "Image": ""
         }
     ]
 }
