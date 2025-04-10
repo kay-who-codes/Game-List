@@ -1,4 +1,5 @@
-{    "Game List": [
+{    "Game List": 
+    [
         {
             "Name": "Chess",
             "Description": "A strategic board game played between two players on a checkered board.",
@@ -46,6 +47,54 @@
             "Brainload": "Medium Brainload",
             "Link": "https://kay-who-codes.github.io/70-Second-Scrawls/",
             "Image": "https://github.com/kay-who-codes/70-Second-Scrawls/blob/main/Non-App/App%20Image.png?raw=true"
+        },
+        {
+            "Name": "Ultimate Drinking Cards",
+            "Description": "A drinking game where players draw cards and follow the instructions on them, which often involve taking drinks or performing dares.",
+            "Rules": "Players take turns drawing cards from a deck. Each card has a different instruction, such as taking a drink, giving a drink, or performing a dare. The game continues until players decide to stop.",
+            "Game-Type": "Drinking Game",
+            "Player-Count": "2+ Players",
+            "Game-Time": "Flexible",
+            "Maturity": "Extra Mature",
+            "Brainload": "Low Brainload",
+            "Link": "https://kay-who-codes.github.io/Ultimate-Drinking-Cards/",
+            "Image": "https://github.com/kay-who-codes/Ultimate-Drinking-Cards/blob/main/Non-App/App%20Image.png?raw=true"
+        },
+        {
+            "Name": "Joking Hazard",
+            "Description": "A party game where players create comic strips using cards with images and captions.",
+            "Rules": "Players take turns being the judge and drawing cards to create a comic strip. The judge chooses the funniest combination, and the player with the most points wins.",
+            "Game-Type": "Party Game",
+            "Player-Count": "3+ Players",
+            "Game-Time": "15-30 Minutes",
+            "Maturity": "Extra Mature",
+            "Brainload": "Medium Brainload",
+            "Link": "https://kay-who-codes.github.io/Laughing-Hazard/",
+            "Image": "https://fillerplace.cl/wp-content/uploads/2024/03/joking-hazard-01.png"
+        },
+        {
+            "Name": "Wordshake",
+            "Description": "A word game where players try to find as many words as possible in a grid of letters within a time limit.",
+            "Rules": "Players shake a grid of lettered dice and then have 3 minutes to find as many words as possible by connecting adjacent letters. Words must be at least 3 letters long.",
+            "Game-Type": "Word Game",
+            "Player-Count": "1+ Players",
+            "Game-Time": "5-20 Minutes",
+            "Maturity": "Mild Maturity",
+            "Brainload": "Medium Brainload",
+            "Link": "https://kay-who-codes.github.io/Wordshake/",
+            "Image": "https://github.com/kay-who-codes/Wordshake/blob/main/Non-App/App%20Image.png?raw=true"
+        },
+        {
+            "Name": "Wordsmash",
+            "Description": "A fast-paced card game of word association and lightning mental reflexes, Noggin encourages clever and witty responses conjured from two random letters of the alphabet.",
+            "Rules": "Players take turns drawing cards and must come up with a word that matches the criteria, and starts with the two letters on the card. The first player to say a word wins the round.",
+            "Game-Type": "Word Game",
+            "Player-Count":"1+ Players",
+            "Game-Time": "5-20 Minutes",
+            "Maturity": "Mild Maturity",
+            "Brainload": "Medium Brainload",
+            "Link": "https://kay-who-codes.github.io/Wordsmash/",
+            "Image": "https://github.com/kay-who-codes/Wordsmash/blob/main/Non-App/App%20Image.png?raw=true"
         }
     ]
 }

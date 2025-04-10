@@ -106,7 +106,7 @@ button:hover {
 }
 
 .game-card:hover {
-    transform: translateY(-5px);
+    transform: scale(1.02);
     box-shadow: 0 10px 15px rgba(0, 0, 0, 0.4);
 }
 
@@ -116,6 +116,7 @@ button:hover {
     background-size: cover;
     background-position: center;
     position: relative;
+    border-radius: 10px 10px 0 0;
 }
 
 .game-image::after {
@@ -125,13 +126,18 @@ button:hover {
     left: 0;
     right: 0;
     height: 60px;
-    background: linear-gradient(to top, rgba(0,0,0,0.7), transparent);
-}
+    background: linear-gradient(to top, rgba(0,0,0,0.7), transparent);}
 
 .game-title {
     font-size: 1.3rem;
+    font-weight: 600;
     margin: 15px 15px 5px;
-    color: var(--accent);
+    color: #121212;
+    background-color: #e1e1e1b6;
+    border: #12121294 solid 1px;
+    padding: 8px;
+    border-radius: 5px;
+    text-align: center;
 }
 
 .game-details {
