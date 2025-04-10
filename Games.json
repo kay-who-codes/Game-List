@@ -1,0 +1,51 @@
+{    "Game List": [
+        {
+            "Name": "Chess",
+            "Description": "A strategic board game played between two players on a checkered board.",
+            "Rules": "Each player starts with 16 pieces: 1 king, 1 queen, 2 rooks, 2 knights, 2 bishops, and 8 pawns. Each piece moves differently. The objective is to checkmate the opponent's king.",
+            "Game-Type": "Board Game",
+            "Player-Count": "2 Players",
+            "Game-Time": "10-25 Minutes",
+            "Maturity": "Mild Maturity",
+            "Brainload": "High Brainload",
+            "Link": "https://www.lichess.org/",
+            "Image": "https://github.com/paulphys/lichess-custom-pieces/blob/main/lichess.png?raw=true"
+        },
+        {
+            "Name": "Truth or Dare or Drink",
+            "Description": "A party game where players choose between answering a question truthfully, performing a dare, or taking a drink.",
+            "Rules": "Players take turns nominatig themselves to either (a) tell a personal truth, or (b), perform a dare. If they refuse to do either, they must take a drink.",
+            "Game-Type": "Drinking Game",
+            "Player-Count": "2+ Players",
+            "Game-Time": "Flexible",
+            "Maturity": "Extra Mature",
+            "Brainload": "Low Brainload",
+            "Link": "https://kay-who-codes.github.io/Truth-Dare-or-Drink/",
+            "Image": "https://github.com/kay-who-codes/Truth-Dare-or-Drink/blob/main/Non-App/App%20Image.png?raw=true"
+        },
+        {
+            "Name": "Cards Against Humanity",
+            "Description": "A party game in which players complete fill-in-the-blank statements using words or phrases typically deemed as offensive.",
+            "Rules": "One player reads a prompt card, and the other players submit their funniest response cards. The reader chooses the best one.",
+            "Game-Type": "Party Game",
+            "Player-Count": "3+ Players",
+            "Game-Time": "15-30 Minutes",
+            "Maturity": "Extra Mature",
+            "Brainload": "Low Brainload",
+            "Link": "https://kay-who-codes.github.io/Cards-Against-Humanity/",
+            "Image": "https://github.com/kay-who-codes/Cards-Against-Humanity/blob/main/Non-Game%20Files/App%20Image.png?raw=true"
+        },
+        {
+            "Name": "70 Second Scrawls",
+            "Description": "A fast-paced drawing game where players have 70 seconds to draw 10 different prompts.",
+            "Rules": "Players take turns drawing prompt cards from a deck, and have 70 seconds to draw all 10 prompts. The other players guess what the drawings are. The player with the most correct guesses wins.",
+            "Game-Type": "Drawing Game",
+            "Player-Count": "2+ Players",
+            "Game-Time": "5-20 Minutes",
+            "Maturity": "Mild Maturity",
+            "Brainload": "Medium Brainload",
+            "Link": "https://kay-who-codes.github.io/70-Second-Scrawls/",
+            "Image": "https://github.com/kay-who-codes/70-Second-Scrawls/blob/main/Non-App/App%20Image.png?raw=true"
+        }
+    ]
+}
