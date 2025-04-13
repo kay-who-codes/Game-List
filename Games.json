@@ -15,23 +15,6 @@
         {
             "Name": "Cards Against Humanity",
             "Description": "A party game in which players complete fill-in-the-blank statements using words or phrases typically deemed as offensive.",
-            "Rules": "One player reads a prompt card, and the other players submit their funniest response cards.{    "Game List": 
-    [
-        {
-            "Name": "Truth or Dare or Drink",
-            "Description": "A party game where players choose between answering a question truthfully, performing a dare, or taking a drink.",
-            "Rules": "Players take turns nominatig themselves to either (a) tell a personal truth, or (b), perform a dare. If they refuse to do either, they must take a drink.",
-            "Game-Type": "Drinking Game",
-            "Player-Count": "2+ Players",
-            "Game-Time": "Flexible",
-            "Maturity": "Extra Mature",
-            "Brainload": "Low Brainload",
-            "Link": "https://kay-who-codes.github.io/Truth-Dare-or-Drink/",
-            "Image": "https://github.com/kay-who-codes/Truth-Dare-or-Drink/blob/main/Non-App/App%20Image.png?raw=true"
-        },
-        {
-            "Name": "Cards Against Humanity",
-            "Description": "A party game in which players complete fill-in-the-blank statements using words or phrases typically deemed as offensive.",
             "Rules": "One player reads a prompt card, and the other players submit their funniest response cards. The reader chooses the best one.",
             "Game-Type": "Party Game",
             "Player-Count": "3+ Players",
@@ -162,7 +145,7 @@
             "Image": "https://github.com/kay-who-codes/20-Questions-Counter/blob/main/Non-App/App%20Image.png?raw=true"
         },
         {
-            "Name": "Quiplash",
+            "Name": "QuiMaster",
             "Description": "A party game where players fill in the blanks of prompts with funny responses, and then vote on the best ones.",
             "Rules": "Players take turns filling in the blanks of prompts with funny responses. The other players vote on their favorite responses, and points are awarded based on the votes received.",
             "Game-Type": "Party Game",
@@ -172,137 +155,6 @@
             "Brainload": "Medium Brainload",
             "Link": "https://kay-who-codes.github.io/QuipMaster/",
             "Image": "https://github.com/kay-who-codes/QuipMaster/blob/main/Non-App/App%20Image.png?raw=true"
-        }
-    ]
-}
- The reader chooses the best one.",
-            "Game-Type": "Party Game",
-            "Player-Count": "3+ Players",
-            "Game-Time": "15-30 Minutes",
-            "Maturity": "Extra Mature",
-            "Brainload": "Low Brainload",
-            "Link": "https://kay-who-codes.github.io/Cards-Against-Humanity/",
-            "Image": "https://github.com/kay-who-codes/Cards-Against-Humanity/blob/main/Non-Game%20Files/App%20Image.png?raw=true"
-        },
-        {
-            "Name": "70 Second Scrawls",
-            "Description": "A fast-paced drawing game where players have 70 seconds to draw 10 different prompts.",
-            "Rules": "Players take turns drawing prompt cards from a deck, and have 70 seconds to draw all 10 prompts. The other players guess what the drawings are. The player with the most correct guesses wins.",
-            "Game-Type": "Drawing Game",
-            "Player-Count": "2+ Players",
-            "Game-Time": "5-20 Minutes",
-            "Maturity": "Mild Maturity",
-            "Brainload": "Medium Brainload",
-            "Link": "https://kay-who-codes.github.io/70-Second-Scrawls/",
-            "Image": "https://github.com/kay-who-codes/70-Second-Scrawls/blob/main/Non-App/App%20Image.png?raw=true"
-        },
-        {
-            "Name": "Ultimate Drinking Cards",
-            "Description": "A drinking game where players draw cards and follow the instructions on them, which often involve taking drinks or performing dares.",
-            "Rules": "Players take turns drawing cards from a deck. Each card has a different instruction, such as taking a drink, giving a drink, or performing a dare. The game continues until players decide to stop.",
-            "Game-Type": "Drinking Game",
-            "Player-Count": "2+ Players",
-            "Game-Time": "Flexible",
-            "Maturity": "Extra Mature",
-            "Brainload": "Low Brainload",
-            "Link": "https://kay-who-codes.github.io/Ultimate-Drinking-Cards/",
-            "Image": "https://github.com/kay-who-codes/Ultimate-Drinking-Cards/blob/main/Non-App/App%20Image.png?raw=true"
-        },
-        {
-            "Name": "Laughing Hazard",
-            "Description": "A party game where players create comic strips using cards with images and captions.",
-            "Rules": "Players take turns being the judge and drawing cards to create a comic strip. The judge chooses the funniest combination, and the player with the most points wins.",
-            "Game-Type": "Party Game",
-            "Player-Count": "3+ Players",
-            "Game-Time": "15-30 Minutes",
-            "Maturity": "Extra Mature",
-            "Brainload": "Medium Brainload",
-            "Link": "https://kay-who-codes.github.io/Laughing-Hazard/",
-            "Image": "https://fillerplace.cl/wp-content/uploads/2024/03/joking-hazard-01.png"
-        },
-        {
-            "Name": "Wordshake",
-            "Description": "A word game where players try to find as many words as possible in a grid of letters within a time limit.",
-            "Rules": "Players shake a grid of lettered dice and then have 3 minutes to find as many words as possible by connecting adjacent letters. Words must be at least 3 letters long.",
-            "Game-Type": "Word Game",
-            "Player-Count": "1+ Players",
-            "Game-Time": "5-20 Minutes",
-            "Maturity": "Mild Maturity",
-            "Brainload": "Medium Brainload",
-            "Link": "https://kay-who-codes.github.io/Wordshake/",
-            "Image": "https://github.com/kay-who-codes/Wordshake/blob/main/Non-App/App%20Image.png?raw=true"
-        },
-        {
-            "Name": "Wordsmash",
-            "Description": "A fast-paced card game of word association and lightning mental reflexes, Noggin encourages clever and witty responses conjured from two random letters of the alphabet.",
-            "Rules": "Players take turns drawing cards and must come up with a word that matches the criteria, and starts with the two letters on the card. The first player to say a word wins the round.",
-            "Game-Type": "Word Game",
-            "Player-Count":"1+ Players",
-            "Game-Time": "5-20 Minutes",
-            "Maturity": "Mild Maturity",
-            "Brainload": "Medium Brainload",
-            "Link": "https://kay-who-codes.github.io/Wordsmash/",
-            "Image": "https://github.com/kay-who-codes/Wordsmash/blob/main/Non-App/App%20Image.png?raw=true"
-        },
-        {
-            "Name": "Spot The Rule",
-            "Description": "A math-based puzzle game where players deduce a hidden rule by analyzing number sequences. Play solo against randomized rules or challenge a friend in 2-player mode!",
-            "Rules": "1-Player Mode: The game generates a sequence using a random mathematical rule. Submit any formula (e.g., `(x * 2) + 1`) that correctly produces the sequence—it doesn't need to match the exact original expression.\n\n2-Player Mode: Player 1 sets a custom rule and starting number. Player 2 sees the generated sequence and must find a working formula (not necessarily identical to Player 1's). Correct solutions win!",
-            "Game-Type": "Number Game",
-            "Player-Count": "1+ Players",
-            "Game-Time": "Flexible",
-            "Maturity": "Mild Maturity",
-            "Brainload": "High Brainload",
-            "Link": "https://kay-who-codes.github.io/Spot-The-Rule/",
-            "Image": ""
-        },
-        {
-            "Name": "3 Criteria Challenge",
-            "Description": "A game where players must guess a word based on three criteria: a starting letter, a category, and a wildcard rule.",
-            "Rules": "Players compete to be the first to guess a word that fits the criteria. The first player to guess correctly wins the round.",
-            "Game-Type": "Word Game",
-            "Player-Count": "1+ Players",
-            "Game-Time": "Flexible",
-            "Maturity": "Mild Maturity",
-            "Brainload": "Medium Brainload",
-            "Link": "https://kay-who-codes.github.io/3-Criteria-Challenge/",
-            "Image": "https://github.com/kay-who-codes/3-Criteria-Challenge/blob/main/Non-App/App%20Image.png?raw=true"
-        },
-        {
-            "Name": "UK Driving Theory Quiz",
-            "Description": "A quiz game designed to help players prepare for the UK driving theory test.",
-            "Rules": "Players answer multiple-choice questions based on the UK Highway Code and driving theory. The game tracks correct answers and provides feedback.",
-            "Game-Type": "Quiz Game",
-            "Player-Count": "1 Player",
-            "Game-Time": "20-40 Minutes",
-            "Maturity": "Mild Maturity",
-            "Brainload": "Medium Brainload",
-            "Link": "https://kay-who-codes.github.io/UK-Driving-Theory-Test/",
-            "Image": "https://github.com/kay-who-codes/UK-Driving-Theory-Test/blob/main/Non-App/App%20Image.png?raw=true"
-        },
-        {
-            "Name": "Invention Cards",
-            "Description": "A game where players create and pitch their own inventions using product cards.",
-            "Rules": "Combine product cards together to create dope new inventions and pitch those inventions to buyers (a. K. A the judge). The dopest invention wins!",
-            "Game-Type": "Party Game",
-            "Player-Count": "3+ Players",
-            "Game-Time": "15-30 Minutes",
-            "Maturity": "Mild Maturity",
-            "Brainload": "Medium Brainload",
-            "Link": "https://kay-who-codes.github.io/Invention-Cards/",
-            "Image": ""
-        },
-        {
-            "Name": "20 Questions",
-            "Description": "A classic guessing game where one player thinks of an object, and the other players ask yes or no questions to guess what it is.",
-            "Rules": "One player thinks of an object, and the other players take turns asking yes or no questions. The goal is to guess the object within 20 questions.",
-            "Game-Type": "Guessing Game",
-            "Player-Count": "2+ Players",
-            "Game-Time": "10-30 Minutes",
-            "Maturity": "Mild Maturity",
-            "Brainload": "Low Brainload",
-            "Link": "https://kay-who-codes.github.io/20-Questions/",
-            "Image": "https://github.com/kay-who-codes/20-Questions-Counter/blob/main/Non-App/App%20Image.png?raw=true"
         }
     ]
 }
