@@ -145,7 +145,7 @@
             "Image": "https://github.com/kay-who-codes/20-Questions-Counter/blob/main/Non-App/App%20Image.png?raw=true"
         },
         {
-            "Name": "QuiMaster",
+            "Name": "QuipMaster",
             "Description": "A party game where players fill in the blanks of prompts with funny responses, and then vote on the best ones.",
             "Rules": "Players take turns filling in the blanks of prompts with funny responses. The other players vote on their favorite responses, and points are awarded based on the votes received.",
             "Game-Type": "Party Game",
