@@ -49,6 +49,18 @@
             "Image": "https://github.com/kay-who-codes/Ultimate-Drinking-Cards/blob/main/Non-App/App%20Image.png?raw=true"
         },
         {
+            "Name": "Ultimate Smoking Cards",
+            "Description": "A smoking game where players draw cards and follow the instructions on them, which often involve taking smokes or performing dares.",
+            "Rules": "Players take turns drawing cards from a deck. Each card has a different instruction, such as taking a smoke, giving a smoke, or performing a dare. The game continues until players decide to stop.",
+            "Game-Type": "Smoking Game",
+            "Player-Count": "2+ Players",
+            "Game-Time": "Flexible",
+            "Maturity": "Extra Mature",
+            "Brainload": "Low Brainload",
+            "Link": "https://kay-who-codes.github.io/Ultimate-Smoking-Cards/",
+            "Image": "https://github.com/kay-who-codes/Ultimate-Smoking-Cards/blob/main/Assets/App%20Image.png?raw=true"
+        },
+        {
             "Name": "Laughing Hazard",
             "Description": "A party game where players create comic strips using cards with images and captions.",
             "Rules": "Players take turns being the judge and drawing cards to create a comic strip. The judge chooses the funniest combination, and the player with the most points wins.",
@@ -278,4 +290,5 @@
         }
     ]
 }
+
 
