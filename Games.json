@@ -189,7 +189,7 @@
             "Game-Time": "5-20 Minutes",
             "Maturity": "Family Friendly",
             "Brainload": "High Brainload",
-            "Link": "https://kay-who-codes.github.io/Solitaire/",
+            "Link": "https://kay-who-codes.github.io/Peg-Solitaire/",
             "Image": "https://github.com/kay-who-codes/Peg-Solitaire/blob/main/Peg%20Solitaire.png?raw=true"
         },
         {
@@ -287,8 +287,21 @@
             "Brainload": "High Brainload",
             "Link": "https://kay-who-codes.github.io/Sudoku/",
             "Image": "https://github.com/kay-who-codes/Sudoku/blob/main/Sudoku.png?raw=true"
+        },
+        {
+            "Name": "Debatable",
+            "Description": "Beat your friends in debate using the prompt cards drawn",
+            "Rules": "Choose an item to argue for each debate topic. Other players may attempt to out-debate you to score the point. First player with 0 cards remaining wins.",
+            "Game-Type": "Roleplay Game",
+            "Player-Count": "3+ Players",
+            "Game-Time": "10-30 Minutes",
+            "Maturity": "Flexible Maturity",
+            "Brainload": "Medium Brainload",
+            "Link": "https://kay-who-codes.github.io/Debatable/",
+            "Image": "https://github.com/kay-who-codes/Debatable/blob/main/Debatable.png?raw=true"
         }
     ]
 }
+
 
 
