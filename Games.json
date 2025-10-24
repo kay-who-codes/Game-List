@@ -94,7 +94,7 @@
             "Maturity": "Mild Maturity",
             "Brainload": "High Brainload",
             "Link": "https://kay-who-codes.github.io/Spot-The-Rule/",
-            "Image": ""
+            "Image": "https://github.com/kay-who-codes/Spot-The-Rule/blob/main/AppIMG.png?raw=true"
         },
         {
             "Name": "3 Criteria Challenge",
@@ -155,6 +155,127 @@
             "Brainload": "Medium Brainload",
             "Link": "https://kay-who-codes.github.io/QuipMaster/",
             "Image": "https://github.com/kay-who-codes/QuipMaster/blob/main/Non-App/App%20Image.png?raw=true"
+        },
+        {
+            "Name": "Solitaire",
+            "Description": "A classic card game where players sort cards into foundation piles in ascending order by suit.",
+            "Rules": "Move all cards to the four foundation piles, building up in suit from Ace to King. Draw cards from the stock and build tableau columns in descending order with alternating colors.",
+            "Game-Type": "Card Game",
+            "Player-Count": "1 Player",
+            "Game-Time": "5-15 Minutes",
+            "Maturity": "Family Friendly",
+            "Brainload": "Medium Brainload",
+            "Link": "https://kay-who-codes.github.io/Solitaire/",
+            "Image": "https://github.com/kay-who-codes/Solitaire/blob/main/Solitaire.png?raw=true"
+        },
+        {
+            "Name": "Peg Solitaire",
+            "Description": "A classic board puzzle where players jump pegs to remove them from the board.",
+            "Rules": "Jump pegs over adjacent pegs into empty holes, removing the jumped peg. The game is solved when only one peg remains in the center.",
+            "Game-Type": "Puzzle Game",
+            "Player-Count": "1 Player",
+            "Game-Time": "5-20 Minutes",
+            "Maturity": "Family Friendly",
+            "Brainload": "High Brainload",
+            "Link": "https://kay-who-codes.github.io/Solitaire/",
+            "Image": "https://github.com/kay-who-codes/Peg-Solitaire/blob/main/Peg%20Solitaire.png?raw=true"
+        },
+        {
+            "Name": "Pong",
+            "Description": "The classic arcade game where players bounce a ball back and forth using paddles.",
+            "Rules": "Use your paddle to hit the ball past your opponent's paddle. Score points when your opponent misses the ball. First to reach the score limit wins.",
+            "Game-Type": "Arcade Game",
+            "Player-Count": "1 Player",
+            "Game-Time": "5-10 Minutes",
+            "Maturity": "Family Friendly",
+            "Brainload": "Low Brainload",
+            "Link": "https://kay-who-codes.github.io/Pong/",
+            "Image": "https://github.com/kay-who-codes/Pong/blob/main/Pong.png?raw=true"
+        },
+        {
+            "Name": "Noun Guesser",
+            "Description": "A word game where players must ask up to 20 questions to guess the secret noun.",
+            "Rules": "One player thinks of a noun while other players ask yes/no questions to deduce the secret word. Players have up to 20 questions to guess correctly.",
+            "Game-Type": "Word Game",
+            "Player-Count": "2+ Players",
+            "Game-Time": "10-20 Minutes",
+            "Maturity": "Family Friendly",
+            "Brainload": "Medium Brainload",
+            "Link": "https://kay-who-codes.github.io/Noun-Guesser/",
+            "Image": "https://github.com/kay-who-codes/Noun-Guesser/blob/main/Noun%20Guesser.png?raw=true"
+        },
+        {
+            "Name": "PromptSay",
+            "Description": "Players compete to create the funniest scenario using a random word and scenario prompt.",
+            "Rules": "A random word and scenario are shown to all players. Each player creates and shares a funny scenario incorporating the word. Players vote on their favorite response.",
+            "Game-Type": "Party Game",
+            "Player-Count": "3+ Players",
+            "Game-Time": "15-30 Minutes",
+            "Maturity": "Mild Maturity",
+            "Brainload": "Medium Brainload",
+            "Link": "https://kay-who-codes.github.io/PromptSay/",
+            "Image": "https://github.com/kay-who-codes/PromptSay/blob/main/PromptSay.png?raw=true"
+        },
+        {
+            "Name": "Sketch & Seek",
+            "Description": "A drawing game where players alternate between drawing prompts and guessing what was drawn.",
+            "Rules": "Players draw sketches based on prompts, then other players guess the prompts from the drawings. The next player draws the guessed prompt, creating a chain of interpretation.",
+            "Game-Type": "Drawing Game",
+            "Player-Count": "3+ Players",
+            "Game-Time": "20-40 Minutes",
+            "Maturity": "Family Friendly",
+            "Brainload": "Medium Brainload",
+            "Link": "https://kay-who-codes.github.io/Sketch-Seek/",
+            "Image": "https://github.com/kay-who-codes/Sketch-Seek/blob/main/Sketch%20&%20Seek.png?raw=true"
+        },
+        {
+            "Name": "Guess the Persona",
+            "Description": "Players guess the role, occupation, character and secret of randomly generated personas.",
+            "Rules": "Players receive randomly generated personas with hidden traits. Through questioning and deduction, players try to identify the persona's role and secret.",
+            "Game-Type": "Deduction Game",
+            "Player-Count": "2+ Players",
+            "Game-Time": "15-30 Minutes",
+            "Maturity": "Family Friendly",
+            "Brainload": "High Brainload",
+            "Link": "https://kay-who-codes.github.io/Guess-the-Persona/",
+            "Image": "https://github.com/kay-who-codes/Guess-the-Persona/blob/main/Guess%20the%20Persona.png?raw=true"
+        },
+        {
+            "Name": "Acronymania",
+            "Description": "A fun word game where players create hilarious acronyms from random letters.",
+            "Rules": "Players receive random letters and must create funny or creative phrases where each word starts with one of the assigned letters. Players vote on the best acronym.",
+            "Game-Type": "Word Game",
+            "Player-Count": "2+ Players",
+            "Game-Time": "10-25 Minutes",
+            "Maturity": "Mild Maturity",
+            "Brainload": "Medium Brainload",
+            "Link": "https://kay-who-codes.github.io/Acronymania/",
+            "Image": "https://github.com/kay-who-codes/Acronymania/blob/main/Acronymania.png?raw=true"
+        },
+        {
+            "Name": "Kingfall",
+            "Description": "A card game where players avoid being the last one holding a King when the deck runs out.",
+            "Rules": "Players take turns drawing and playing cards with special actions. The goal is to avoid being the last player holding a King card when no cards remain in the deck.",
+            "Game-Type": "Card Game",
+            "Player-Count": "3-6 Players",
+            "Game-Time": "10-20 Minutes",
+            "Maturity": "Family Friendly",
+            "Brainload": "Low Brainload",
+            "Link": "https://kay-who-codes.github.io/Kingfall/",
+            "Image": "https://github.com/kay-who-codes/Kingfall/blob/main/Kingfall.png?raw=true"
+        },
+        {
+            "Name": "Sudoku",
+            "Description": "A classic number puzzle where players fill a grid with digits following specific rules.",
+            "Rules": "Fill the 9x9 grid so that each row, column, and 3x3 box contains all digits from 1 to 9 without repetition. Start with some numbers pre-filled as clues.",
+            "Game-Type": "Puzzle Game",
+            "Player-Count": "1 Player",
+            "Game-Time": "5-30 Minutes",
+            "Maturity": "Family Friendly",
+            "Brainload": "High Brainload",
+            "Link": "https://kay-who-codes.github.io/Sudoku/",
+            "Image": "https://github.com/kay-who-codes/Sudoku/blob/main/Sudoku.png?raw=true"
         }
     ]
 }
+
