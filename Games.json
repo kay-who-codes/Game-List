@@ -265,6 +265,18 @@
             "Image": "https://github.com/kay-who-codes/Acronymania/blob/main/Acronymania.png?raw=true"
         },
         {
+            "Name": "Morpheme Game",
+            "Description": "Create new words by combining root words with morphemes and nouns",
+            "Rules": "Players draw one starter card and five player cards, then combine any of them to form real or invented words. The group may judge results for creativity or plausibility.",
+            "Game-Type": "Word Game",
+            "Player-Count": "1+ Players",
+            "Game-Time": "5-15 Minutes",
+            "Maturity": "Family Friendly",
+            "Brainload": "Medium Brainload",
+            "Link": "https://kay-who-codes.github.io/Morpheme-Game/",
+            "Image": "https://github.com/kay-who-codes/Morpheme-Game/blob/main/Game%20Image.png?raw=true"
+        },
+        {
             "Name": "Kingfall",
             "Description": "A card game where players avoid being the last one holding a King when the deck runs out.",
             "Rules": "Players take turns drawing and playing cards with special actions. The goal is to avoid being the last player holding a King card when no cards remain in the deck.",
@@ -302,6 +314,7 @@
         }
     ]
 }
+
 
 
 
